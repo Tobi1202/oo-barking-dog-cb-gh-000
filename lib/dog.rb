@@ -9,6 +9,6 @@ def name=(_name)
 end
 
 def bark
-
+  puts "Woof!"
 end
 end
