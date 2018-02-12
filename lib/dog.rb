@@ -7,4 +7,8 @@ end
 def name=(_name)
 @name = _name
 end
+
+def bark
+
+end
 end
