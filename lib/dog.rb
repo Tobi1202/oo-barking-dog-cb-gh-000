@@ -5,7 +5,7 @@ def initialize(name)
 @name = name
 bark
 end
-  
+
 def name
 @name
 end
